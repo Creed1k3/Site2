@@ -1,0 +1,197 @@
+2025.10.29 09:21:54 Error: Order is not accepted. 
+Order: array (
+  'countryCode' => 'RU',
+  'comment' => '',
+  'createdAt' => '2025-10-29 09:21:43',
+  'ip' => '127.0.0.1',
+  'landingUrl' => 'http://land.com',
+  'name' => '',
+  'offerId' => '18448',
+  'phone' => '',
+  'referrer' => NULL,
+  'streamCode' => '',
+  'sub1' => '',
+  'sub2' => '',
+  'sub3' => '',
+  'sub4' => '',
+  'userAgent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36',
+)
+Response: array (
+  'status' => 'error',
+  'code' => 400,
+  'message' => 'Заказ некорректен',
+  'errors' => 
+  array (
+    'name' => 
+    array (
+      0 => 'Необходимо заполнить поле «Name».',
+    ),
+    'phone' => 
+    array (
+      0 => 'Необходимо заполнить поле «Phone».',
+    ),
+    'countryCode' => 
+    array (
+      0 => 'Данный оффер не поддерживает страну ru',
+    ),
+  ),
+)
+#0 C:\Users\ninap\Desktop\4469_offer_archive\onepage.php(5): require_once()
+#1 C:\Users\ninap\Desktop\4469_offer_archive\index.php(1): require('C:\\Users\\ninap\\...')
+#2 {main}2025.10.29 09:21:54 Error: Order is not accepted. 
+Order: array (
+  'countryCode' => 'RU',
+  'comment' => '',
+  'createdAt' => '2025-10-29 09:21:54',
+  'ip' => '127.0.0.1',
+  'landingUrl' => 'http://land.com',
+  'name' => '',
+  'offerId' => '18448',
+  'phone' => '',
+  'referrer' => NULL,
+  'streamCode' => '',
+  'sub1' => '',
+  'sub2' => '',
+  'sub3' => '',
+  'sub4' => '',
+  'userAgent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36',
+)
+Response: array (
+  'status' => 'error',
+  'code' => 400,
+  'message' => 'Заказ некорректен',
+  'errors' => 
+  array (
+    'name' => 
+    array (
+      0 => 'Необходимо заполнить поле «Name».',
+    ),
+    'phone' => 
+    array (
+      0 => 'Необходимо заполнить поле «Phone».',
+    ),
+    'countryCode' => 
+    array (
+      0 => 'Данный оффер не поддерживает страну ru',
+    ),
+  ),
+)
+#0 C:\Users\ninap\Desktop\4469_offer_archive\onepage.php(5): require_once()
+#1 C:\Users\ninap\Desktop\4469_offer_archive\index.php(1): require('C:\\Users\\ninap\\...')
+#2 {main}2025.10.29 09:21:55 Error: Order is not accepted. 
+Order: array (
+  'countryCode' => 'RU',
+  'comment' => '',
+  'createdAt' => '2025-10-29 09:21:54',
+  'ip' => '127.0.0.1',
+  'landingUrl' => 'http://land.com',
+  'name' => '',
+  'offerId' => '18448',
+  'phone' => '',
+  'referrer' => NULL,
+  'streamCode' => '',
+  'sub1' => '',
+  'sub2' => '',
+  'sub3' => '',
+  'sub4' => '',
+  'userAgent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36',
+)
+Response: array (
+  'status' => 'error',
+  'code' => 400,
+  'message' => 'Заказ некорректен',
+  'errors' => 
+  array (
+    'name' => 
+    array (
+      0 => 'Необходимо заполнить поле «Name».',
+    ),
+    'phone' => 
+    array (
+      0 => 'Необходимо заполнить поле «Phone».',
+    ),
+    'countryCode' => 
+    array (
+      0 => 'Данный оффер не поддерживает страну ru',
+    ),
+  ),
+)
+#0 C:\Users\ninap\Desktop\4469_offer_archive\onepage.php(5): require_once()
+#1 C:\Users\ninap\Desktop\4469_offer_archive\index.php(1): require('C:\\Users\\ninap\\...')
+#2 {main}2025.10.30 08:14:35 Error: Order is not accepted. 
+Order: array (
+  'countryCode' => 'RU',
+  'comment' => '',
+  'createdAt' => '2025-10-30 08:14:35',
+  'ip' => '173.252.79.35',
+  'landingUrl' => 'http://land.com',
+  'name' => '',
+  'offerId' => '18448',
+  'phone' => '',
+  'referrer' => NULL,
+  'streamCode' => '',
+  'sub1' => '',
+  'sub2' => '',
+  'sub3' => '',
+  'sub4' => '',
+  'userAgent' => 'facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)',
+)
+Response: array (
+  'status' => 'error',
+  'code' => 400,
+  'message' => 'Заказ некорректен',
+  'errors' => 
+  array (
+    'name' => 
+    array (
+      0 => 'Необходимо заполнить поле «Name».',
+    ),
+    'phone' => 
+    array (
+      0 => 'Необходимо заполнить поле «Phone».',
+    ),
+    'countryCode' => 
+    array (
+      0 => 'Данный оффер не поддерживает страну ru',
+    ),
+  ),
+)
+#0 {main}2025.10.30 22:14:56 Error: Order is not accepted. 
+Order: array (
+  'countryCode' => 'RU',
+  'comment' => '',
+  'createdAt' => '2025-10-30 22:14:56',
+  'ip' => '63.88.73.8',
+  'landingUrl' => 'http://land.com',
+  'name' => '',
+  'offerId' => '18448',
+  'phone' => '',
+  'referrer' => 'https://www.google.com/',
+  'streamCode' => '',
+  'sub1' => '',
+  'sub2' => '',
+  'sub3' => '',
+  'sub4' => '',
+  'userAgent' => 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36',
+)
+Response: array (
+  'status' => 'error',
+  'code' => 400,
+  'message' => 'Заказ некорректен',
+  'errors' => 
+  array (
+    'name' => 
+    array (
+      0 => 'Необходимо заполнить поле «Name».',
+    ),
+    'phone' => 
+    array (
+      0 => 'Необходимо заполнить поле «Phone».',
+    ),
+    'countryCode' => 
+    array (
+      0 => 'Данный оффер не поддерживает страну ru',
+    ),
+  ),
+)
+#0 {main}
